@@ -1,0 +1,35 @@
+{
+  "manifest_version": "1.0",
+  "org": "GoogleCloudPlatform",
+  "repo": "flask-talisman",
+  "versions": [
+    {
+      "commit": "0040966bed66634db3d0f0b627b9bc6b541238d5",
+      "parsed_at": "2026-10-19T12:22:05.821116+00:00",
+      "filetree": "filetree/0040966bed66634db3d0f0b627b9bc6b541238d5.nq.gz",
+      "blobs": [
+        "blob/2d55d13d67e1d4310a5c2982fd287d46d0c2c741.nq.gz",
+        "blob/2c5c028cdb64dba7f0aa3588e16c1c73298c0608.nq.gz",
+        "blob/fcc22df6fb16e63ed8568b065be1d8bd6f5b9842.nq.gz",
+        "blob/31b5b2b1d915019b57cf22f1929dbeb9c5c4c20f.nq.gz",
+        "blob/9228356ecdad6165ce84b8d2f0025e098173a0ed.nq.gz",
+        "blob/d91027c8c196be256d03193afc91c4e38d4fee91.nq.gz",
+        "blob/34e28804ec425ded280f71de22db4855bba10780.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/8698c2ff2e5dca83110866149cf231568a22d163.nq.gz",
+        "blob/de742cee4ff1f7d9a75631f1465246f84eb979c8.nq.gz",
+        "blob/8c75fc494ed8706e63ed44520a38cb3bd4109e2f.nq.gz",
+        "blob/6736efd943c8d138a3ed74be795227c9d0fcfedc.nq.gz",
+        "blob/0a60e37ad588526c8e5a07d9dc98b2bf87ad4373.nq.gz",
+        "blob/ccb0af964472e70303df4fa2cc8d025aa75c7b48.nq.gz",
+        "blob/ab866a94be3d770835539e7cefa786d62c3994d7.nq.gz",
+        "blob/d5e3ca17a1891584022370c7838a4ac798d0b548.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
